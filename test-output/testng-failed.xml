@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.gojek.assignment.gojekfinalassignment.ComparatorTest">
+      <class name="com.assignment.ComparatorTest">
         <methods>
           <include name="testComparator"/>
         </methods>
-      </class> <!-- com.gojek.assignment.gojekfinalassignment.ComparatorTest -->
+      </class> <!-- com.assignment.ComparatorTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
